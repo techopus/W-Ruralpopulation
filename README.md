@@ -20,3 +20,5 @@ We have server and client side of code and hence run them seperately.
 Now, since the server and the client are going to be run on different ports, CORS has to be enabled in the browser to allow their communication. (If an express server had been used, CORS would have been enabled from there).
 
 Can find CORS extensions download link here for different browsers: https://mybrowseraddon.com/access-control-allow-origin.html?v=0.1.6&type=install
+
+![scrn](https://user-images.githubusercontent.com/92953798/172371688-e03ca281-3875-488a-aced-4e30a1f3a53e.png)
