@@ -1,5 +1,5 @@
 # W-Ruralpopulation
-World rural population webapp using react for forntend and flask for backend api
+World rural population webapp using react for forntend and flask for backend api.
 
 We have server and client side of code and hence run them seperately.
 
