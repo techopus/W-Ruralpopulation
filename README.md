@@ -3,7 +3,7 @@ World rural population webapp using react for forntend and flask for backend api
 
 We have server and client side of code and hence run them seperately.
 
-# Download the zip file or git clone the work( git clone git@github.com:techopus/W-Ruralpopulation.git )
+### Download the zip file or git clone the work( git clone git@github.com:techopus/W-Ruralpopulation.git )
 
 # For backend run
 
